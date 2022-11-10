@@ -14,5 +14,12 @@ h2{
 h3{
     text-align: center;
     color:blue;
-    
+
+}
+
+table, th, td{
+    text-align: center;    
+    background-color:#97DB9A;
+    border: 1px solid;
+    margin: auto;
 }
